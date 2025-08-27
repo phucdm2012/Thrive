@@ -31,25 +31,6 @@ A stock information app built with **vnstock** and **yfinance**.
 
 ---
 
-## Installation / Cài đặt
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/phucdm2012/Thrive.git
-   cd Thrive
-   ```
-
-2. Install dependencies:  
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the app:  
-   ```bash
-   python main.py
-   ```
-
----
-
 ## License / Giấy phép
 This project is licensed under the [MIT License](LICENSE).  
 Dự án này được phát hành theo [Giấy phép MIT](LICENSE).  
